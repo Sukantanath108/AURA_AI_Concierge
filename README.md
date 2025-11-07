@@ -169,7 +169,6 @@ Replace placeholder URLs in:
 ## 📚 Documentation
 
 - **[Full Documentation](./DOCUMENTATION.md)** - Complete technical documentation
-- **[Presentation Guide](./PRESENTATION_FLOW.md)** - Presentation walkthrough
 - **[Quick Reference](./QUICK_REFERENCE.md)** - One-page overview
 
 ---
