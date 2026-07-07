@@ -13,7 +13,7 @@
 
 ## 🎬 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/crDxwwjXU4w/maxresdefault.jpg)](https://youtu.be/lH-2KCUg-O8?si=e7y0fjvfZYpoBrAu)
+[![Watch the Demo](Screenshot 2026-07-08 014733.png)](https://youtu.be/lH-2KCUg-O8?si=e7y0fjvfZYpoBrAu)
 
 > 📹 **[▶ Watch Full Demo](https://youtu.be/lH-2KCUg-O8?si=e7y0fjvfZYpoBrAu)** — Complete walkthrough of AURA AI in action.
 
