@@ -7,7 +7,15 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.5-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Built by Team_Mongolchari @ Solvio AI Hackathon**
+**Built by Sukanta Nath | Team Mongolchari @ Solvio AI Hackathon**
+
+---
+
+## 🎬 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/crDxwwjXU4w/maxresdefault.jpg)](https://youtu.be/lH-2KCUg-O8?si=e7y0fjvfZYpoBrAu)
+
+> 📹 **[▶ Watch Full Demo](https://youtu.be/lH-2KCUg-O8?si=e7y0fjvfZYpoBrAu)** — Complete walkthrough of AURA AI in action.
 
 ---
 
